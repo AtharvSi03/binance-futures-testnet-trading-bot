@@ -1,4 +1,4 @@
-# Binance Futures Testnet Trading Bot (PRIMETRADE.AI Core)
+# Binance Futures Testnet Trading Bot
 
 ## Overview
 
