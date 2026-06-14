@@ -32,8 +32,7 @@ API_SECRET=your_binance_api_secret
 
 Clone the repository:
 
-git clone https://github.com/your-username/primetrade-ai.git  
-cd primetrade-ai  
+git clone https://github.com/AtharvSi03/binance-futures-testnet-trading-bot.git
 
 Install dependencies:
 
